@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "ux-design-exercise-rongsibei-spec",
+			"path": "."
+		},
+		{
+			"name": "js",
+			"path": "../jquery-exercise-rongsibei-spec/js"
+		},
+		{
+			"name": "images",
+			"path": "../jquery-exercise-rongsibei-spec/images"
+		},
+		{
+			"name": "css",
+			"path": "../jquery-exercise-rongsibei-spec/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ux-design-exercise-rongsibei-spec"
+	}
+}
